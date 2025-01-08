@@ -1,0 +1,5 @@
+1. nano calculadora.sh
+2. chmod 744 calculadora.sh
+3. chmod +x calculadora.sh
+3. ./calculadora.sh
+
